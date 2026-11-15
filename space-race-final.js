@@ -1,12 +1,3 @@
-/* Optional: fill this in only if you want to use Firebase instead of the built-in
-   peer-to-peer system. Leave apiKey empty and no account or setup is needed. */
-const FIREBASE_CONFIG = {
-  apiKey: "",
-  authDomain: "",
-  databaseURL: "",
-  projectId: "",
-  appId: ""
-};
 
 /* ---------------- questions ---------------- */
 const QUESTIONS = [
